@@ -1,0 +1,2 @@
+A second sample document with different content.
+Used for multi-file and secure transfer testing scenarios.

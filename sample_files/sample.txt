@@ -1,0 +1,4 @@
+This is a sample document for testing digital signature verification.
+The RSA-based system will hash this content using SHA-256,
+sign it with a private key, and verify it with the corresponding public key.
+Any modification to this file should cause signature verification to fail.
